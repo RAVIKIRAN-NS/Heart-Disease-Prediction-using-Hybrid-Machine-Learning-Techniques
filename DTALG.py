@@ -1,4 +1,4 @@
-# Decision tre
+# Decision tree
 import pandas as pd 
 import numpy as np
 from sklearn.tree import DecisionTreeRegressor
